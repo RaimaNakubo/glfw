@@ -91,6 +91,6 @@ tests/title
 tests/triangle-vulkan
 tests/windows
 
-# Hazel-specific
+# Knot-specific
 bin
 bin-int

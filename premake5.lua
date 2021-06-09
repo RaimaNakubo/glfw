@@ -46,3 +46,5 @@ project "GLFW"
             "_CRT_SECURE_NO_WARNINGS"
 		}
     
+    filter { "system:widnows", "configurations:Release" }
+        buildoptions "/MT"
